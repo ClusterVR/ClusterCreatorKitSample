@@ -25,6 +25,13 @@ Cluster Creator Kit を用いたサンプル Unity プロジェクトです。
 
 コライダーによる移動の制限を確認できます。
 
+### ItemSample
+
+`Assets/ClusterVR/Scenes/ItemSample.unity`
+
+アイテムの設定を確認できます。
+
+
 ### ScreenSample
 
 `Assets/ClusterVR/Scenes/ScreenSample.unity`
