@@ -31,7 +31,6 @@ Cluster Creator Kit を用いたサンプル Unity プロジェクトです。
 
 アイテムの設定を確認できます。
 
-
 ### ScreenSample
 
 `Assets/ClusterVR/Scenes/ScreenSample.unity`
@@ -56,3 +55,27 @@ Mixed Lightingの設定を確認できます。
 
 スクリーンやライティング設定済みのイベント向け完成会場です。
 
+### WarpSample
+
+`Assets/ClusterVR/Scenes/WarpSample.unity`
+
+WarpPortalの動作を確認できます。
+
+### WorldGateSample
+
+`Assets/ClusterVR/Scenes/WorldGateSample.unity`
+
+チュートリアルワールドに移動するWorldGateが設置されています。
+（ワールドアップロード後に動作します）
+
+### TriggerSample
+
+`Assets/ClusterVR/Scenes/TriggerSample.unity`
+
+トリガーの動作を確認できます。
+
+### GimmickSample
+
+`Assets/ClusterVR/Scenes/GimmickSample.unity`
+
+ギミックの動作を確認できます。
