@@ -8,7 +8,7 @@
     "com.unity.timeline": "1.1.0",
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.openvr.standalone": "1.0.5",
-    "mu.cluster.cluster-creator-kit": "https://github.com/ClusterVR/ClusterCreatorKit.git#v1.3.0",
+    "mu.cluster.cluster-creator-kit": "https://github.com/ClusterVR/ClusterCreatorKit.git#v1.3.1",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -43,8 +43,8 @@
   },
   "lock": {
     "mu.cluster.cluster-creator-kit": {
-      "hash": "1eb72c4bb72edcfe7f9d9a53b2204960a2c85db1",
-      "revision": "v1.3.0"
+      "hash": "f34ec55fac951bb2afd7d568a2c6769c03324d49",
+      "revision": "v1.3.1"
     }
   }
 }
