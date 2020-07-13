@@ -79,3 +79,9 @@ WarpPortalの動作を確認できます。
 `Assets/ClusterVR/Scenes/GimmickSample.unity`
 
 ギミックの動作を確認できます。
+
+### TimerSample
+
+`Assets/ClusterVR/Scenes/TimerSample.unity`
+
+オペレーションコンポーネントのうちタイマーの動作を確認できます。
