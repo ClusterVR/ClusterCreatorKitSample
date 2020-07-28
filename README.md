@@ -4,7 +4,7 @@ Cluster Creator Kit を用いたサンプル Unity プロジェクトです。
 
 ## 導入
 
-1. Unity 2019.2.21f1 をダウンロードする
+1. Unity 2019.4.1f1 をダウンロードする
 2. UnityでClusterCreatorKitSampleプロジェクトを開く
 3. サンプルシーンを開く
 4. より詳細な情報は[Cluster Creator Kit ドキュメント](https://clustervr.gitbook.io/creatorkit/)を参照のこと
@@ -85,3 +85,15 @@ WarpPortalの動作を確認できます。
 `Assets/ClusterVR/Scenes/TimerSample.unity`
 
 オペレーションコンポーネントのうちタイマーの動作を確認できます。
+
+### LotterySample
+
+`Assets/ClusterVR/Scenes/LotterySample.unity`
+
+オペレーションコンポーネントのうち抽選の動作を確認できます。
+
+### LogicSample
+
+`Assets/ClusterVR/Scenes/LogicSample.unity`
+
+オペレーションコンポーネントのうちロジックの動作を確認できます。

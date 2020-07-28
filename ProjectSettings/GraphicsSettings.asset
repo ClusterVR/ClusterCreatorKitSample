@@ -3,7 +3,7 @@
 --- !u!30 &1
 GraphicsSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 12
+  serializedVersion: 13
   m_Deferred:
     m_Mode: 0
     m_Shader: {fileID: 0}
@@ -216,3 +216,4 @@ GraphicsSettings:
   m_LightsUseLinearIntensity: 0
   m_LightsUseColorTemperature: 0
   m_LogWhenShaderIsCompiled: 0
+  m_AllowEnlightenSupportForUpgradedProject: 1
