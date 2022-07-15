@@ -4,7 +4,7 @@ Cluster Creator Kit を用いたサンプル Unity プロジェクトです。
 
 ## 要件
 
-### Unity 2019.4.22f1
+### Unity 2021.3.4f1
 
 環境に応じて以下の追加モジュールが必要です。
 
@@ -18,7 +18,7 @@ Cluster Creator Kit を用いたサンプル Unity プロジェクトです。
 - iOS Build Support
 - Windows Build Support (Mono)
 
-### Cluster Creator Kit v1.9.0 以上
+### Cluster Creator Kit v1.15.0 以上
 プロジェクトに自動で導入されます。
 起動時にエラーが出る場合や Unity のメニューに「Cluster」の項目が追加されていない場合は [Creator Kitの導入](https://clustervr.gitbook.io/creatorkit/installation/install-creatorkit) を参考に Creator Kit の手動での導入をお試しください。
 
