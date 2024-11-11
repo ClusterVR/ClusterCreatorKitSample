@@ -86,7 +86,7 @@
       }
     },
     "mu.cluster.cluster-creator-kit": {
-      "version": "2.26.0",
+      "version": "2.27.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
